@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbdullahiIsmail04
+- 👋 Hi, I’m @Abdullahi Ismail
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS, and JavaScript
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on GitHub with teams
-- 📫 Reach me on WhatsApp
+- 📫 Reach me on WhatsApp +252 619 480 686
 - 😄 Pronouns: He/Him
 
 <!---
