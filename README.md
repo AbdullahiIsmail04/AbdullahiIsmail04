@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS, and JavaScript
 - 💞️ I’m looking to collaborate on GitHub with teams
 - 📫 Reach me on WhatsApp
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He/Him
 
 <!---
 AbdullahiIsmail04/AbdullahiIsmail04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
