@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdullahi Ismail
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on GitHub with teams
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to my way of becoming a full-stack developer
 - 📫 Reach me on WhatsApp +252 619 480 686
 - 😄 Pronouns: He/Him
 
