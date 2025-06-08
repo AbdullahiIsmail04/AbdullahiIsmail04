@@ -1,11 +1,51 @@
-- 👋 Hi, I’m @Abdullahi Ismail
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to my way of becoming a full-stack developer
-- 📫 Reach me on WhatsApp +252 619 480 686
-- 😄 Pronouns: He/Him
+# 👋 Hey there, I'm Abdullahi Ismail
 
-<!---
-AbdullahiIsmail04/AbdullahiIsmail04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 A Computer Science student at **Jamhuriya University of Science & Technology**, passionate about **tech, learning**, and **building awesome things**. I'm currently learning **Frontend Development** and making my way to becoming a **Full-Stack Developer** 🚀
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript)
+- 💡 Exploring **web development**, **Git/GitHub**, and **open source**
+- 📚 Previously studied **Digital Marketing** at Hurbad Institute
+- 🎯 On a mission to build a strong dev portfolio
+- 🌍 Based in Somalia | 💬 Pronouns: **He/Him**
+
+---
+
+### 🛠️ TEch Stack I Use
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968831.png" width="40" alt="Todoist" title="ToDoist"/>
+</p>
+
+
+---
+
+### 🔧 Skills I'm Building
+- 🖥️ Web Development  
+- 🎨 UI/UX Design (Beginner)  
+- 📱 Social Media Management  
+- 🔍 SEO (Search Engine Optimization)  
+- 🧩 WordPress & Elementor
+
+---
+
+### 📈 GitHub Stats
+![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahiIsmail04&show_icons=true&theme=dracula)
+
+---
+
+### 📫 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abdullahi-ismail-ali-50040b313/)
+- 📧 Email: **abdullahiismailali04@gmail.com**
+
+---
+
+> “Every expert was once a beginner. Stay consistent, stay hungry.” 🚀
