@@ -27,7 +27,7 @@
 
 ---
 
-### 🔧 Skills I'm Building
+### 🔧 Skills
 - 🖥️ Web Development  
 - 🎨 UI/UX Design (Beginner)  
 - 📱 Social Media Management  
