@@ -37,7 +37,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahiIsmail04&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahiIsmail04&show_icons=true&theme=dracula)
 
 ---
 
