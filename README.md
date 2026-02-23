@@ -42,7 +42,6 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abdullahi-ismail-ali-50040b313/)
 - 📧 Email: **abdullahiismailali04@gmail.com**
 
 ---
